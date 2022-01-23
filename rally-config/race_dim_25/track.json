@@ -14,7 +14,8 @@
         {
           "source-file": "document.json",
           "document-count": 1226258,
-          "uncompressed-bytes": 777040696
+          "uncompressed-bytes": 777040696,
+          "compressed-bytes": 272108877
         }
       ]
     }

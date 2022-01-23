@@ -13,7 +13,9 @@
       },
       "vector": {
         "type": "dense_vector",
-        "dims": "25"
+        "dims": "25",
+        "index": true,
+        "similarity": "cosine" 
       }
     }
   }
